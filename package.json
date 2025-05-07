@@ -9,6 +9,7 @@
   "author": "Vítor C - 3B",
   "license": "ISC",
   "dependencies": {
+    "express": "^5.1.0",
     "uuid": "^11.1.0"
   }
 }
